@@ -3,3 +3,9 @@ Etherscan is a block explorer for the Ethereum blockchain.
 It allows users to easily search and browse transactions and blocks.
  It also provides information about each transaction and block, 
 such as the hash and timestamp. You can think of Etherscan as the Google of Ethereum
+
+
+
+
+
+some initial chanes of first.txt file this changes of practice and learning purpose
