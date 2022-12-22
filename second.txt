@@ -1,0 +1,5 @@
+What year did Chainlink start?
+History. Chainlink was created in 2017 by Sergey Nazarov and Steve Ellis, 
+who co-authored a white paper introducing the Chainlink protocol and network
+ with Cornell University professor Ari Juels the same year.
+ Chainlink acts as a "bridge" between a blockchain and off-chain environments.
